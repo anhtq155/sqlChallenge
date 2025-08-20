@@ -20,12 +20,12 @@ namespace CsvToExcelImporter
         {
             if (args.Length == 0)
             {
-                Console.WriteLine("Usage: dotnet run -- input.csv");
+                Console.WriteLine("Usage: dotnet run -- input.csv"); // Provide the path to the CSV file as an argument
                 return;
             }
 
             string csvFilePath = args[0];
-            string outputExcelPath = "output.xlsx";
+            string outputExcelPath = "output.xlsx"; // You can change this to any desired output path
 
             if (!File.Exists(csvFilePath))
             {
