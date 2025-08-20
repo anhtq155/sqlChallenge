@@ -18,7 +18,7 @@ cd sql_challenge
 
 ### 2. Install Dependencies
 - Open the project folder in VS Code.
-- Open the terminal in VS Code (Ctrl+` or Cmd+` on Mac).
+- Open the terminal in VS Code (Ctrl+`).
 - Install the EPPlus package:
   ```bash
   dotnet add package EPPlus
