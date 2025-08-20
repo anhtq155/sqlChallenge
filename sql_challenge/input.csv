@@ -1,0 +1,8 @@
+entity_id,entity_first_name,entity_middle_name,entity_last_name,entity_dob,is_master,address,entity_gender
+1001,John,,Smith,1990-05-15,1,"123 Main Street, Wellington, New Zealand",Male
+1002,Mary,Jane,Doe,1985-12-22,0,"456 Oak Avenue, Auckland, New Zealand",Female
+1003,Paul,,Smith,1988-02-18,1,"789 Pine Road, Christchurch, New Zealand",Male
+1004,Sarah,Ann,Johnson,1992-07-30,0,"321 Elm Street, Dunedin, New Zealand",Female
+1005,David,,Brown,1980-03-10,1,"654 Cedar Lane, Hamilton, New Zealand",Male
+1006,Emily,,Davis,1995-11-25,,,"789 Birch Court, Tauranga, New Zealand",
+1007,Michael,James,Wilson,1983-09-14,0,"147 Maple Drive, Palmerston North, New Zealand",Male
